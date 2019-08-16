@@ -1,10 +1,10 @@
-- [ ] fix codecs- 
+- [ ] fix codecs with @ggow
 - [ ] fix camera
 - [ ] fix bluetooth
 - [ ] smooth out choppy graphics
 - [ ] release rom 
 - [ ] move some blobs to vendor and hexedit *.so files from vendor to see that it can be used at vendor
-- [ ] upstream the kernel
+- [ ] upstream the kernel 
 - [ ] add dtw
 - [ ] make kernel save more battery
 - [ ] start using system as root
