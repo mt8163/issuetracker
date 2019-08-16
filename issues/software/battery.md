@@ -1,6 +1,7 @@
 Build Number:google/lineage_karnak/karnak:9/PQ3A.190801.002/kai08160902:userdebug/test-keys
 
 screen shot:
+![alt text](https://github.com/488315/issuetracker/raw/master/issues/software/screenshot/Screenshot_20190723-231113_Settings.png)
 
 
 issue title : USB MTP doesnt work and usb hal
